@@ -12,3 +12,6 @@
 
 ## MinGW64.zip
 这个是在dev-cpp的安装目录下的一个文件打包的.可以供clion使用。
+
+## calculator.apk
+这是我第一个独立写的app的安装包，虽然就一个简易的计算器，但是也练习到了app开发流程和kotlin的基本语法
