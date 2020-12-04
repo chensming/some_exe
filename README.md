@@ -26,3 +26,7 @@ python app.py
 ## machineLearningdata
 这个文件加下有一个train.zip文件,里面有一个train.csv的文件，来源于网上，仅用于学习途径!!!切记!!!
 侵删! 这个文件在 svm实操小案例 这篇博客用到了, 博客地址: https://blog.csdn.net/weixin_43850253/article/details/109713755
+
+
+## mydaily.apk
+日记本安卓的软件，花了5个多小时写的。
